@@ -2,7 +2,7 @@
 
 A simple and interactive web application built with **Streamlit** that predicts the type of Iris flower based on user-defined features using different machine learning models.
 
-## 📌 Project Structure
+## Project Structure
 
 ```
 
@@ -27,7 +27,7 @@ IRIS CLASSIFICATION/
 
 ---
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the Repository
 
@@ -52,7 +52,7 @@ streamlit run Classifier_UI.py
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The dataset used is the famous [Iris Flower Dataset](https://www.kaggle.com/datasets/uciml/iris), which contains 150 records with four features:
 
@@ -69,7 +69,7 @@ And three classes:
 
 ---
 
-## 💡 How It Works
+## How It Works
 
 1. Models are pre-trained and saved in the `Exported Models` directory.
 2. `Classifier_UI.py` loads these models using `joblib`.
@@ -77,8 +77,5 @@ And three classes:
 4. The selected model predicts the flower type and displays the result instantly.
 
 ---
-
-
-## 🧠 Author
 
 Created by [Kenean Dita](https://github.com/KeneanDita).
