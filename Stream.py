@@ -21,7 +21,7 @@ label_map = {
 }
 
 st.set_page_config(page_title="🌸 Iris Flower Classifier", layout="centered")
-st.title("🌸 Iris Flower Classifier")
+st.title("🌸 Iris Intel - Flower Classifier")
 st.write(
     "Predict the type of Iris flower based on its features using different machine learning models."
 )
