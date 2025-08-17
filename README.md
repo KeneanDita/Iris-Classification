@@ -25,7 +25,6 @@ All models are pre-trained and stored as `.joblib` files inside the `Exported Mo
 * `svm_model.joblib`
 * `Decision_Tree.joblib`
 
-
 ## 🛠 Installation
 
 1. **Clone the repository**
@@ -59,7 +58,7 @@ All models are pre-trained and stored as `.joblib` files inside the `Exported Mo
 
 ## 📂 Project Structure
 
-```
+```project-structure
 Iris-Intel/
 │── Exported Models/
 │   ├── Logistic_regression.joblib
@@ -84,7 +83,7 @@ Iris-Intel/
 
 **Output**:
 
-```
+```sample_output
 The predicted class is Setosa using Logistic Regression!
 ```
 
